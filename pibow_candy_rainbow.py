@@ -14,6 +14,7 @@ import unicornhat, signal, time, random
 
 unicornhat.set_layout(unicornhat.HAT)
 unicornhat.brightness(0.5)
+# Comment out the following line to make it move in the opposiste direction.
 unicornhat.rotation(180)
 
 def get_color():
