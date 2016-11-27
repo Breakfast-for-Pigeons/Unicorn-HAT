@@ -32,7 +32,7 @@ I2 = (75, 55, 107)
 V2 = (101, 76, 100)
 W2 = (122, 77, 97)
 
-def pibow_candy_doulbe_ripple_3():
+def pibow_candy_double_ripple_3():
 
 	rainbow = [
 		[R, O, Y, G, B, I, V, W], 
@@ -164,7 +164,7 @@ def pibow_candy_doulbe_ripple_3():
 
 def main():
 	while True:
-		pibow_candy_doulbe_ripple_3()
+		pibow_candy_double_ripple_3()
 
 if __name__ == '__main__':
     main()
