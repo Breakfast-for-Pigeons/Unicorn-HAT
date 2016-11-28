@@ -90,14 +90,14 @@ def pibow_candy_double_ripple_1():
 	]
 
 	ripple04 = [
-		[R, O, Y, G, B2, I2, V, W], 
-		[R, O, Y, G, B2, I2, V, W], 
-		[R, O, Y, G, B2, I2, V, W], 
-		[R, O, Y, G, B2, I2, V, W], 
-		[R2, O2, Y2, G2, B2, I2, V2, W2], 
-		[R, O, Y, G, B2, I2, V, W], 
-		[R, O, Y, G, B2, I2, V, W], 
-		[R, O, Y, G, B2, I2, V, W]
+		[R, O, Y, G, B2, I, V, W], 
+		[R, O, Y, G, B2, I, V, W], 
+		[R, O, Y, G, B2, I, V, W], 
+		[R, O, Y, G, B2, I, V, W], 
+		[R2, O2, Y2, G2, B, I2, V2, W2], 
+		[R, O, Y, G, B2, I, V, W], 
+		[R, O, Y, G, B2, I, V, W], 
+		[R, O, Y, G, B2, I, V, W]
 	]
 
 	ripple05 = [
