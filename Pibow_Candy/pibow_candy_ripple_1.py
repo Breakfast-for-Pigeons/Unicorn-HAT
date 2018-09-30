@@ -74,6 +74,7 @@ def main():
     except KeyboardInterrupt:
         stop()
 
+
 def pibow_candy_ripple_1():
     """
     ripples the Pibow Candy rainbow from the top left (The corner near
