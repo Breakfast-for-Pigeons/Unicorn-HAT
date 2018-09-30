@@ -4,7 +4,8 @@ Pibow Candy Striper 1
 
 This program lights up each column one at a time with the pastel colors
 of the Pimoroni Pibow Candy case. It lights them up from left
-(the side with the USB and ethernet ports) to right.
+(the side with the USB and ethernet ports) to right and from top (the
+side with the HDMI port) to the bottom.
 
 ....................
 
