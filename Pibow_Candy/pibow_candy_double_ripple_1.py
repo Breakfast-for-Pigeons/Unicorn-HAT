@@ -11,7 +11,7 @@ to the bottom.
 ....................
 
 Functions:
-- pibow_candy_ripple_1: Ripples the Pibow Candy rainbow
+- pibow_candy_double_ripple_1: Ripples the Pibow Candy rainbow
 - stop: Print exit message and turn off the UnicornHAT
 
 ....................
