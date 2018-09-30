@@ -77,7 +77,7 @@ def main():
 
 def pibow_candy_ripple_1():
     """
-    ripples the Pibow Candy rainbow from the top left (The corner near
+    Ripples the Pibow Candy rainbow from the top left (The corner near
     the ethernet port) to the bottom right (diagonal from the ethernet
     port)
     """
