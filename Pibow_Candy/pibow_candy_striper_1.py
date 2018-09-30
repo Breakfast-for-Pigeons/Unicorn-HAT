@@ -9,9 +9,7 @@ of the Pimoroni Pibow Candy case. It lights them up from left
 ....................
 
 Functions:
-- get_color: extracts 3 individual integers from a tuple and returns
-  them.
-- pibow_candy_striper_1: Get the x and y coordinates and the
+- pibow_candy_striper_1: Gets the x and y coordinates and the
   RGB integers for the x coordinates.
 - get_color: Extracts 3 individual integers from a tuple and returns
   them.
@@ -74,7 +72,7 @@ def main():
 
 def pibow_candy_striper_1():
     """
-    Get the x and y coordinates and the RGB integers for the
+    Gets the x and y coordinates and the RGB integers for the
     x coordinates.
     """
 
