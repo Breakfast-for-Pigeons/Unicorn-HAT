@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Pibow Candy Ripple 1
+Pibow Candy Ripple 2
 
 This program displays and the pastel colors of the Pimoroni Pibow
 Candy case. It ripples the Pibow Candy rainbow from the top right
