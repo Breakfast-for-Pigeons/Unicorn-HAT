@@ -129,7 +129,7 @@ def stop():
     """
     Print exit message and turn off the UnicornHAT
     """
-    print("\nEx_coordinateiting program.")
+    print("\nExiting program.")
     unicornhat.off()
 
 
