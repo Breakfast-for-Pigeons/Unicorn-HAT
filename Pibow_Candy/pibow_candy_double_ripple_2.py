@@ -77,7 +77,7 @@ def main():
 
 def pibow_candy_double_ripple_2():
     """
-    ripples the Pibow Candy rainbow from the top right (The corner near
+    Ripples the Pibow Candy rainbow from the top right (The corner near
     the power port) to the bottom left (next to the USB ports) as well
     as from top (the side with the HDMI port) to the bottom.
     """
