@@ -1,4 +1,4 @@
-#!/usr/bin/py_coordinatethon3
+#!/usr/bin/python3
 """
 Pibow Candy Striper 1
 
