@@ -24,8 +24,8 @@ This program was written on a Raspberry Pi using the Geany IDE.
 ########################################################################
 
 from time import sleep
-from print_unicornhat_header import print_unicornhat_header
 import unicornhat
+from print_unicornhat_header import print_unicornhat_header
 
 ########################################################################
 #                           Initialize                                 #
