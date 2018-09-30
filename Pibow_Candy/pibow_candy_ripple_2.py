@@ -212,6 +212,7 @@ def pibow_candy_ripple_2():
         [R, O, Y, G2, B, I, V, W],
         [R, O, Y, G, B2, I, V, W]
     ]
+
     ripple11 = [
         [R, O, Y, G, B, I, V, W],
         [R, O, Y, G, B, I, V, W],
@@ -244,6 +245,7 @@ def pibow_candy_ripple_2():
         [R2, O, Y, G, B, I, V, W],
         [R, O2, Y, G, B, I, V, W]
     ]
+
     ripple14 = [
         [R, O, Y, G, B, I, V, W],
         [R, O, Y, G, B, I, V, W],
