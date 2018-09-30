@@ -10,7 +10,7 @@ side with the HDMI port) to the bottom.
 ....................
 
 Functions:
-- pibow_candy_striper_1: Gets the x and y coordinates and the
+- pibow_candy_striper_1: Get the x and y coordinates and the
   RGB integers for the x coordinates.
 - get_color: Extracts 3 individual integers from a tuple and returns
   them.
@@ -108,7 +108,7 @@ def pibow_candy_striper_1():
     sleep(1.0)
 
 
-def get_color(x_coordinate_color_tuple):
+def get_color(x_color_tuple):
     """
     Extracts 3 individual integers from a tuple and returns them.
 
@@ -120,9 +120,9 @@ def get_color(x_coordinate_color_tuple):
         3 integers representing red, green, and blue respectively
     """
 
-    return int(x_coordinate_color_tuple[0]), \
-           int(x_coordinate_color_tuple[1]), \
-           int(x_coordinate_color_tuple[2])
+    return int(x_color_tuple[0]), \
+           int(x_color_tuple[1]), \
+           int(x_color_tuple[2])
 
 
 def stop():
