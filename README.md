@@ -7,9 +7,6 @@ The Pimoroni UnicornHAT on a Rasberry Pi 3 in a Pimoroni Pibow Candy case.
 
 The program header in 1 of 7 randomly selected colors.
 
-# Pibow Candy
-Contains programs using only the pastel colors of the Pibow Candy case. Choose which individual ones you like, or get a taste of all of them with the pibow_candy_demo.py program. The colors can easily be changed if you like the programs but don't like the colors. These programs are written in Python 3.
-
 # Running the programs
 After downloading or cloning, chage to that directory.
 
@@ -30,3 +27,6 @@ Now if you type **ls**, you will notice the program is a different color.
   
 Then to run the program, type **sudo ./pibow_candy_demo_UnicornHAT.py**
 ![unicorn_hat_run2](https://user-images.githubusercontent.com/13591438/46269822-1d321880-c509-11e8-80ec-3db5ae6e2cd2.png)
+
+# Pibow Candy
+Contains programs using only the pastel colors of the Pibow Candy case. Choose which individual ones you like, or get a taste of all of them with the pibow_candy_demo.py program. The colors can easily be changed if you like the programs but don't like the colors. These programs are written in Python 3.
