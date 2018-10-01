@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Pibow Candy Moving Diagonal Rainbow 1
+Pibow Candy Moving Diagonal Rainbow
 
 This program moves the Pibow Candy rainbow diagonally.
 
