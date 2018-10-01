@@ -18,10 +18,10 @@ After downloading or cloning, chage to that directory.
 To see all the programs, type **ls**
 ![unicorn_hat_ls](https://user-images.githubusercontent.com/13591438/46269476-05599500-c507-11e8-9daf-0c15e35840b2.png)
 
-To run a program, type **sudo python** and then the name of the program. For example, **sudo python pibow_candy_dem_UnicornHAT.py**
+To run a program, type **sudo python** and then the name of the program. For example, **sudo python pibow_candy_demo_UnicornHAT.py**
 ![unicorn_hat_run](https://user-images.githubusercontent.com/13591438/46269482-0c80a300-c507-11e8-966f-35be7fe8abfe.png)
   
 Alternatively, you can make each program executable. To do this, type **sudo chmod +x** and then the name of the program.
-For example, **sudo chmod +x pibow_candy_dem_UnicornHAT.py**
+For example, **sudo chmod +x pibow_candy_demo_UnicornHAT.py**
   
-Then to run the program, type **sudo ./pibow_candy_dem_UnicornHAT.py**
+Then to run the program, type **sudo ./pibow_candy_demo_UnicornHAT.py**
