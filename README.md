@@ -23,5 +23,10 @@ To run a program, type **sudo python** and then the name of the program. For exa
   
 Alternatively, you can make each program executable. To do this, type **sudo chmod +x** and then the name of the program.
 For example, **sudo chmod +x pibow_candy_demo_UnicornHAT.py**
+![unicorn_hat_chmod](https://user-images.githubusercontent.com/13591438/46269806-068bc180-c509-11e8-988e-0a1cec2ee320.png)
+
+Now if you type **ls**, you will notice the program is a different color.
+![unicorn_hat_ls2](https://user-images.githubusercontent.com/13591438/46269816-16a3a100-c509-11e8-99bb-a03108444967.png)
   
 Then to run the program, type **sudo ./pibow_candy_demo_UnicornHAT.py**
+![unicorn_hat_run2](https://user-images.githubusercontent.com/13591438/46269822-1d321880-c509-11e8-80ec-3db5ae6e2cd2.png)
