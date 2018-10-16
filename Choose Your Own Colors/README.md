@@ -29,7 +29,6 @@ C5H = (0, 0, 128)        # Half the values of Color 5
 C6H = (0, 102, 102)      # Half the values of Color 6
 C7H = (64, 0, 128)       # Half the values of Color 7
 C8H = (128, 128, 128)    # Half the values of Color 8
-
 ```
 
 By default, the colors are the colors of the rainboow, but you can insert your own color codes. Each number in the tuple
