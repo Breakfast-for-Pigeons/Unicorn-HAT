@@ -72,6 +72,22 @@ from vertical_striper_13 import vertical_striper_13
 from vertical_striper_14 import vertical_striper_14
 from vertical_striper_15 import vertical_striper_15
 from vertical_striper_16 import vertical_striper_16
+from contracting_square_1 import contracting_square_1
+from contracting_square_2 import contracting_square_2
+from expanding_square_1 import expanding_square_1
+from expanding_square_2 import expanding_square_2
+from corner_to_corner_1 import corner_to_corner_1
+from corner_to_corner_2 import corner_to_corner_2
+from corner_to_corner_3 import corner_to_corner_3
+from corner_to_corner_4 import corner_to_corner_4
+from corner_to_corner_5 import corner_to_corner_5
+from corner_to_corner_1_v2 import corner_to_corner_1_v2
+from corner_to_corner_2_v2 import corner_to_corner_2_v2
+from corner_to_corner_3_v2 import corner_to_corner_3_v2
+from corner_to_corner_4_v2 import corner_to_corner_4_v2
+from spiral_1 import spiral_1
+from clockwise import clockwise
+from counter_clockwise import counter_clockwise
 
 ########################################################################
 #                            Functions                                 #
@@ -108,7 +124,13 @@ def pibow_demo():
                      vertical_striper_9, vertical_striper_10,
                      vertical_striper_11, vertical_striper_12,
                      vertical_striper_13, vertical_striper_14,
-                     vertical_striper_15, vertical_striper_16]
+                     vertical_striper_15, vertical_striper_16,
+                     contracting_square_1, contracting_square_2,
+                     expanding_square_1, expanding_square_2,
+                     corner_to_corner_1, corner_to_corner_2,
+                     corner_to_corner_3, corner_to_corner_4,
+                     corner_to_corner_5, spiral_1,
+                     clockwise, counter_clockwise]
 
     cycle_colors()
 
