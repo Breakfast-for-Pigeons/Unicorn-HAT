@@ -8,15 +8,19 @@ http://docs.pimoroni.com/unicornhat/
 
 
 # Running the programs
+1. Download the programs. You can either download them from above or use git.
+
+![UnicornHAT_git_01](https://user-images.githubusercontent.com/13591438/71389784-716c6100-25c3-11ea-92aa-a66a0205043d.png)
+
 After downloading or cloning, chage to that directory.
 
-![unicorn_hat_cd](https://user-images.githubusercontent.com/13591438/46269467-f83ca600-c506-11e8-9b8d-1de0e2120916.png)
+![UnicornHAT_git_02](https://user-images.githubusercontent.com/13591438/71389787-73cebb00-25c3-11ea-9870-80a0c1f3373c.png)
 
 To see all the programs, type **ls**
-![unicorn_hat_ls](https://user-images.githubusercontent.com/13591438/46269476-05599500-c507-11e8-9daf-0c15e35840b2.png)
+![UnicornHAT_git_03](https://user-images.githubusercontent.com/13591438/71389788-76311500-25c3-11ea-8cd8-aac5a063029b.png)
 
 To run a program, type **sudo python** and then the name of the program. For example, **sudo python pibow_candy_demo_UnicornHAT.py**
-![unicorn_hat_run](https://user-images.githubusercontent.com/13591438/46269482-0c80a300-c507-11e8-966f-35be7fe8abfe.png)
+![UnicornHAT_git_04](https://user-images.githubusercontent.com/13591438/71389797-7a5d3280-25c3-11ea-9a41-9706a457399d.png)
   
 Alternatively, you can make each program executable. To do this, type **sudo chmod +x** and then the name of the program.
 For example, **sudo chmod +x pibow_candy_demo_UnicornHAT.py**
