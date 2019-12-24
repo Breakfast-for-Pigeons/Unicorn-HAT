@@ -8,7 +8,7 @@ http://docs.pimoroni.com/unicornhat/
 
 
 # Running the programs
-1. Download the programs. You can either download them from above or use git.
+Download the programs. You can either download them from above or use git.
 
 ![UnicornHAT_git_01](https://user-images.githubusercontent.com/13591438/71389784-716c6100-25c3-11ea-92aa-a66a0205043d.png)
 
