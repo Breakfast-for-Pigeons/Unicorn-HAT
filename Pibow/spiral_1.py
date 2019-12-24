@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Spiral 1 - Pibow Candy
+Spiral 1 - Pibow
 
 Retrieves the rainbows and sends them to the ripple function.
 With the GPIO pins at the top of the Raspberry Pi, the rainbows ripple
